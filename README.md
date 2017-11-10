@@ -24,7 +24,7 @@ I tried to keep UI just like windows 10 but yet there some minor bugs. Feel free
 ## A Simple Antivirus using VB.net
 This is a simple antivirus which generates the <code>MD5 hashes</code> of files and then matches the MD5 hash to the existing database of (Virus MD5 hashes).
 
-<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" src="https://i.imgur.com/Cb10P86.png"></img>
+<img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" src="https://i.imgur.com/IbktvNU.png"></img>
 
 ###Features
 <ul>
