@@ -26,7 +26,7 @@ This is a simple antivirus which generates the <code>MD5 hashes</code> of files 
 
 <img style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" src="https://i.imgur.com/IbktvNU.png"></img>
 
-###Features
+### Features
 <ul>
   <li>Detects the virus according to the MD5 match status</li>
   <li><code>Using FileStream</code> <code>Using StreamReader</code></li>
