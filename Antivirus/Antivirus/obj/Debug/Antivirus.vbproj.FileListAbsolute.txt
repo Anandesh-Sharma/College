@@ -1,0 +1,12 @@
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\bin\Debug\Antivirus.exe.config
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\bin\Debug\Antivirus.exe
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\bin\Debug\Antivirus.pdb
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\bin\Debug\Antivirus.xml
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\obj\Debug\Antivirus.vbprojResolveAssemblyReference.cache
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\obj\Debug\Antivirus.Form1.resources
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\obj\Debug\Antivirus.Resources.resources
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\obj\Debug\Antivirus.vbproj.GenerateResource.Cache
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\obj\Debug\Antivirus.vbproj.CoreCompileInputs.cache
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\obj\Debug\Antivirus.exe
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\obj\Debug\Antivirus.xml
+C:\Users\Louis Williams\source\repos\Antivirus\Antivirus\obj\Debug\Antivirus.pdb
